@@ -3,6 +3,8 @@ This is a MSTR plugin.
 
 This plugin is going to help in many scenarios like in Transactional Service, Dossier, or in RSD for Employee, Customer, or by Product to do faster analysis and transactions.
 
+#### This Plugin is free to use and hence few of the scenario handle is not included in this but once you are done with development then QR Scaning funtionality will work perfectly.
+
 ### Plugin requirements are below:
 
 1. Min 1 and Max 3 attribute/attribute form.
