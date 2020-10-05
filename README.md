@@ -17,7 +17,7 @@ Plugin requirements are below:
 
 <img src="https://lh3.googleusercontent.com/-ZauVzc7EEoY/X2i5gOi85GI/AAAAAAAADko/R2KzHiq-sgs6M2MYPx2OU0kDqDUY3cRdACNcBGAsYHQ/w559-h219/image.png"/>
 
-<b style="font-size:170px;">Credits</b> </br>
+<b style="font-size:170px;">Credits</b>
 <hr>
 This Plugin is created by using free HTML5 QR Code Scanner: https://github.com/mebjas/html5-qrcode 
 </br>So, you can check all the supported browser and compatibility from above link
