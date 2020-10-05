@@ -17,6 +17,5 @@ This plugin is going to help in many scenarios like in Transactional Service, Do
 <img src="https://lh3.googleusercontent.com/-ZauVzc7EEoY/X2i5gOi85GI/AAAAAAAADko/R2KzHiq-sgs6M2MYPx2OU0kDqDUY3cRdACNcBGAsYHQ/w559-h219/image.png"/>
 
 ## Credits
-<hr>
 This Plugin is created by using free HTML5 QR Code Scanner: https://github.com/mebjas/html5-qrcode 
 </br>So, you can check all the supported browser and compatibility from above link
