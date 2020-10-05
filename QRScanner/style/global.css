@@ -1,0 +1,148 @@
+#RwMenuModel_WEB-INFxmllayoutsblocksInsertDHTMLWidgetMenuLayoutxml #mnuInsertWgQRScanner {
+    background: url(images/camera-scan.png) no-repeat scroll 4px;
+    background-size: 16px;
+}
+
+#RwMenuModelEditor_WEB-INFxmllayoutsblocksInsertDHTMLWidgetMenuEditorLayoutxml #mnuInsertWgQRScanner {
+    background: url(images/camera-scan.png) no-repeat scroll 4px;
+    background-size: 16px;
+}
+
+
+#RwMenuModel_WEB-INFxmllayoutsblocksInsertIPhoneWidgetMenuLayoutxml #mnuInsertWgQRScanner {
+    background:url(images/camera-scan.png)  no-repeat scroll 4px;
+    background-size: 16px;
+}
+
+#RwMenuModelEditor_WEB-INFxmllayoutsblocksInsertIPhoneWidgetMenuEditorLayoutxml  #mnuInsertWgQRScanner {
+    background:url(images/camera-scan.png)  no-repeat scroll 4px;
+    background-size: 16px;
+}
+
+.custom-vis-layout.qrscanner .startScanParentDiv
+{
+	text-align: center;
+	padding-top: 15px;
+	height: 40px;
+
+}
+
+.custom-vis-layout.qrscanner .btn-scan
+{
+	width: auto;
+    padding: 10px;
+    border-radius: 20px;
+    /*background-color: #629acc;
+    color: #ffffff;*/
+    margin: 0 auto;
+    font-size: 15px;
+    float: right;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+.custom-vis-layout.qrscanner .btn-scan:hover
+{
+	border: none;
+    box-shadow: 5px 5px 10px #999;
+    transition: 0.3s;
+    cursor: pointer;
+
+}
+
+.custom-vis-layout.qrscanner .closeScanParentDiv
+{
+	text-align: center;
+	padding-top: 15px;
+	height: 50px;
+	display: none;
+
+}
+
+.custom-vis-layout.qrscanner .close-scan
+{
+	width: auto;
+    padding: 10px;
+    border-radius: 20px;
+  /*  background-color: #629acc;
+    color: #ffffff;*/
+    margin: 0 auto;
+    font-size: 15px;
+    float: right;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+.custom-vis-layout.qrscanner .close-scan:hover
+{
+	border: none;
+    box-shadow: 5px 5px 10px #999;
+    transition: 0.3s;
+    cursor: pointer;
+
+}
+
+.custom-vis-layout.qrscanner .imgDiv
+{
+	text-align: center;
+	padding-top: 10px;
+
+}
+
+.custom-vis-layout.qrscanner .QRScanImg
+{
+	margin: 0 auto;
+	width: auto;
+	max-width: 100%;
+    max-height: 100%;
+
+
+}
+
+.custom-vis-layout.qrscanner .scannedObjName
+{
+	
+	text-align: center;
+
+}
+
+.custom-vis-layout.qrscanner .clearScanBtn
+{
+	
+	text-align: center;
+
+}
+
+.custom-vis-layout.qrscanner .clearScanBtn:hover
+{
+	
+	border: none;
+    box-shadow: 5px 5px 10px #999;
+    transition: 0.3s;
+    cursor: pointer;
+
+}
+
+.custom-vis-layout.qrscanner #minWidthErrorMsg
+{
+	
+	display: table-cell;
+    text-align: center;
+    vertical-align: middle;    
+    font-size: 1.5em;
+    color: #ff5722;
+
+}
+
+
+	
+
+
+
+
+
+
+
+

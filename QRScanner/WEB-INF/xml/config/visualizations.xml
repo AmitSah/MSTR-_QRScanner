@@ -1,0 +1,1 @@
+<visualizations><visualization-list name="ajax" show-in-web="true" view-mode="51"><visualization attribute-minimum="1" desc="QRScanner" drop-zones="plugins.QRScanner.QRScannerDropZones" editor-model="plugins.QRScanner.QRScannerEditorModel" is-mojo="true" metric-minimum="1" scope="19" style-name="QRScanner" widget-type="7" /></visualization-list></visualizations>
