@@ -10,6 +10,8 @@ Plugin requirements are below:
 3. Plugin will support in the only Web with https or localhost connection.
 4. Minimum 300px width and height are required.
 
+<iframe width="600" height="500" src="https://www.youtube.com/watch?v=1_TB4jlvl1A&feature=youtu.be&loop=1">
+</iframe>
 
 <img src="https://lh3.googleusercontent.com/-KA4r_Ss-SE4/X2izd9tzr6I/AAAAAAAADkE/_FAIhzNCgNAKMiYqXYH8TWWLfO515wQXgCNcBGAsYHQ/w550-h251/image.png"/>
 
