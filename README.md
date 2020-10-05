@@ -10,8 +10,8 @@ This plugin is going to help in many scenarios like in Transactional Service, Do
 1. Min 1 and Max 3 attribute/attribute form.
 2. Max 1 metric.
 3. Plugin will support in the only Web with https or localhost connection.
-4. Minimum 300px width and height are required.
-5. This Plugin will not work in Workstation, only in web it will work.
+4. This Plugin will not work in Workstation, only in web it will work.
+5. Minimum 300px width and height are required.
 
 <img src="https://lh3.googleusercontent.com/-KA4r_Ss-SE4/X2izd9tzr6I/AAAAAAAADkE/_FAIhzNCgNAKMiYqXYH8TWWLfO515wQXgCNcBGAsYHQ/w550-h251/image.png"/>
 
